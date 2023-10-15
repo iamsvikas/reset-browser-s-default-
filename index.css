@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* font-size: 10px; /*to make oue calculation easy*/
+  font-size: 62.5%; /*to make adjustable as per user's browser's setting*/
+  /* 62.5%===10px */
+}
+
+body {
+  line-height: 1;
+  font-weight: 400;
+}
